@@ -1,0 +1,17 @@
+Objetivo: conseguir el maximo puntaje
+link: https://tetris.com/play-tetris
+
+definir
+- area de juego
+
+- controles 
+right arrow = move right
+left arrow  = move left
+up arrow    = rotate right
+down arrow  = soft drop
+space       = hard drop
+esc         = pause/play
+
+- otros
+se puede ver hasta un maximo de 3 piezas futuras
+prohibido usar hold
